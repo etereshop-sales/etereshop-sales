@@ -13,6 +13,7 @@ LED and mirror costumes, wings, helmets and props. Here you will find software a
 | Guide | What is inside |
 |---|---|
 | [All about controllers](https://github.com/etereshop-sales/All-about-controllers) | Controllers and consoles |
+| [Peacock tail P30 layouts](https://github.com/etereshop-sales/Peacock-tail-P30-layouts) | LED layouts, config.txt, Madrix projects and test effects for the P30 tail |
 | [All about batteries](https://github.com/etereshop-sales/All-about-batteries) | 18650 batteries: sizes, polarity, charging |
 | [Typical problems and product configuration](https://github.com/etereshop-sales/Typical-problems-and-product-configuration) | Common problems and how to solve them |
 | [LED repair](https://github.com/etereshop-sales/LED-repair) | How to repair faulty LEDs |
